@@ -1,0 +1,21 @@
+[submodule "sources/meta-kde"]
+	path = sources/meta-kde
+	url = git://anongit.kde.org/yocto-meta-kde.git
+[submodule "sources/meta-kf5"]
+	path = sources/meta-kf5
+	url = git://anongit.kde.org/yocto-meta-kf5.git
+[submodule "sources/meta-qt5"]
+	path = sources/meta-qt5
+	url = https://code.qt.io/cgit/yocto/meta-qt5.git
+[submodule "sources/meta-openembedded"]
+	path = sources/meta-openembedded
+	url = http://git.openembedded.org/meta-openembedded
+[submodule "sources/meta-raspberrypi"]
+	path = sources/meta-raspberrypi
+	url = http://git.yoctoproject.org/cgit.cgi/meta-raspberrypi
+[submodule "sources/poky"]
+	path = sources/poky
+	url = https://git.yoctoproject.org/cgit/cgit.cgi/poky
+[submodule "sources/meta-kde-demo"]
+	path = sources/meta-kde-demo
+	url = git://anongit.kde.org/scratch/vkrause/yocto-meta-kde-demo.git
