@@ -1,9 +1,9 @@
 [submodule "sources/meta-kde"]
 	path = sources/meta-kde
-	url = git://anongit.kde.org/yocto-meta-kde.git
+	url = https://invent.kde.org/packaging/yocto-meta-kde.git
 [submodule "sources/meta-kf5"]
 	path = sources/meta-kf5
-	url = git://anongit.kde.org/yocto-meta-kf5.git
+	url = https://invent.kde.org/packaging/yocto-meta-kf5.git
 [submodule "sources/meta-qt5"]
 	path = sources/meta-qt5
 	url = https://code.qt.io/cgit/yocto/meta-qt5.git
@@ -18,4 +18,4 @@
 	url = https://git.yoctoproject.org/cgit/cgit.cgi/poky
 [submodule "sources/meta-kde-demo"]
 	path = sources/meta-kde-demo
-	url = git://anongit.kde.org/scratch/vkrause/yocto-meta-kde-demo.git
+	url = https://invent.kde.org/vkrause/yocto-meta-kde-demo.git
