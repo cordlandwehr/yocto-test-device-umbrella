@@ -18,7 +18,7 @@
 	url = https://git.yoctoproject.org/cgit/cgit.cgi/poky
 [submodule "sources/meta-kde-demo"]
 	path = sources/meta-kde-demo
-	url = https://invent.kde.org/vkrause/yocto-meta-kde-demo.git
+	url = https://invent.kde.org/packaging/yocto-meta-kde-demo.git
 [submodule "sources/meta-java"]
 	path = sources/meta-java
 	url = https://git.yoctoproject.org/git/meta-java
